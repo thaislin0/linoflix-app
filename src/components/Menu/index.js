@@ -3,6 +3,7 @@ import Logo from '../../assets/img/Logo.png';
 import '../Menu/Menu.css'
 import Button from '../Button';
 
+
 function Menu() {
     return (
         <nav className="Menu">
