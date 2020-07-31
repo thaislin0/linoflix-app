@@ -1,25 +1,25 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Psicologia",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#6E6E6E",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Filmes e séries psicológicos",
+        "url": "https://guiadoestudante.abril.com.br/estudo/11-series-para-quem-ama-psicologia/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "MINDHUNTER | Trailer oficial | Netflix",
+          "url": "https://www.youtube.com/watch?v=J4LWdJHJxbs"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "MINDHUNTER | Trailer oficial | Netflix",
+          "url": "https://www.youtube.com/watch?v=J4LWdJHJxbs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Dexter | Official Trailer | SHOWTIME Series",
+          "url": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "#6E6E6E",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "#6E6E6E",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"

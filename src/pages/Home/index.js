@@ -1,11 +1,11 @@
 import React from "react";
-import Menu from '../src/components/Menu';
+import Menu from '../../components/Menu';
 
-import dadosIniciais from '../src/data/dados_iniciais.json';
+import dadosIniciais from '../../data/dados_iniciais.json';
 
-import BannerMain from '../src/components/BannerMain';
-import Carousel from '../src/components/Carousel';
-import Footer from '../src/components/Footer';
+import BannerMain from '../../components/BannerMain';
+import Carousel from '../../components/Carousel';
+import Footer from '../../components/Footer';
 
 function Home() {
   return (
